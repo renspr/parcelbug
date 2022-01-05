@@ -1,0 +1,13 @@
+{
+  "name": "parcelbug",
+  "private": true,
+  "dependencies": {
+    "parcel": "^2.0.1"
+  },
+  "scripts": {
+    "parcel:serve": "parcel serve --dist-dir ./dist ./src/application.scss"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.0.1"
+  }
+}

@@ -1,0 +1,1 @@
+{"mappings":"AAAA;EACE;;;ACCF;EACE","sources":["src/test.scss","src/application.scss"],"sourcesContent":[null,"@import \"test.scss\";\n\nh1 {\n  background-color: green;\n}\n"],"names":[],"version":3,"file":"application.css.map","sourceRoot":"/__parcel_source_root/"}
